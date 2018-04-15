@@ -36,7 +36,7 @@ Your `hello-cops` repository can be a place where you store ideas, resources, or
 
 ![new-repo-form](/images/create-new-repo.png)
 
-Click **Create repository**. ![:tada:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png ":tada:")
+Click **Create repository**.
 
 ## Step 2\. Create a Branch
 
@@ -111,7 +111,7 @@ _Click on the image for a larger version_
 
 | Step | Screenshot |
 | ---- | ---------- |
-Click the <span class="octicon octicon-git-pull-request"></span>**Pull Request** tab, then from the Pull Request page, click the green **New pull request** button. | [![pr-tab](/images/pr-tab.gif)](pr-tab.gif)
+Click the **Pull Request** tab, then from the Pull Request page, click the green **New pull request** button. | [![pr-tab](/images/pr-tab.gif)](pr-tab.gif)
 In the **Example Comparisons** box, select the branch you made, `readme-edits`, to compare with `master` (the original). | [![branch](/images/pick-branch.png)](pick-branch.png)
 Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | [![diff](/images/diff.png)](diff.png)
 When you’re satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button. | [![create-pull](/images/create-pr.png)](create-pr.png)
