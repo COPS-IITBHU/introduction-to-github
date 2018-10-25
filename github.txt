@@ -1,0 +1,2 @@
+github is a platform where you can suggest or perform an edit to somebody's written code.
+also you can create your own own repository to save your code.
