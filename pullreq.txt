@@ -1,0 +1,7 @@
+How to send a pullrequest in github:
+
+1.fork the repository for which you want to send a pull request.
+2.hit create new file option in the window opened.
+3.name the pull request, add some comment lines and type the pull request.
+4.now send the pull reuest by hitting the pull request button.
+
